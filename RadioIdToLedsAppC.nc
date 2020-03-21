@@ -1,7 +1,7 @@
 
 #include "RadioIdToLeds.h"
 #define NEW_PRINTF_SEMANTICS
-#include "printf.h"
+//#include "printf.h"
 
 
 configuration RadioIdToLedsAppC {}
