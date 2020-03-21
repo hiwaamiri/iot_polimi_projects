@@ -1,6 +1,6 @@
 #include "Timer.h"
 #include "RadioIdToLeds.h"
-#include "printf.h" // to test the code, not useable anymore
+//#include "printf.h" // to test the code, not useable anymore
 
 
 module RadioIdToLedsC @safe() 
